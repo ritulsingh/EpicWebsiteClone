@@ -1,0 +1,128 @@
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  background-color: black;
+  flex-wrap: wrap;
+  margin: 0%;
+  margin-top: 25px;
+}
+.flex-box {
+  background-color: black;
+  width: 25%;
+  margin: 10px;
+  text-align: center;
+  line-height: 700px;
+  font-size: 30px;
+}
+.item1 {
+  flex-shrink: 2;
+  flex: 30%;
+}
+.item2 {
+  flex: 30%;
+}
+.item3 {
+  flex-shrink: 2;
+  flex: 30%;
+}
+.sign-items {
+  display: flex;
+  background-color: #202020;
+  flex-direction: column;
+}
+.sign-option {
+  background-color: #f1f1f1;
+  margin-top: 0px;
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-bottom: 12px;
+  text-align: center;
+  line-height: 62px;
+}
+.logo-image {
+  background-color: #202020;
+  padding-top: 10px;
+  margin-top: 33px;
+  margin-bottom: -12px;
+}
+.slogans {
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: white;
+  background-color: #202020;
+  font-family: OpenSans, sans-serif, arial;
+  line-height: 30px;
+  margin-top: 0px;
+}
+.epic-sign {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  flex-wrap: wrap;
+  margin: 0%;
+}
+.logo {
+  flex: 25%;
+  display: flex;
+  justify-content: center; /* align horizontal  */
+  align-items: center;
+  /* border: 1px solid lightblue; */
+}
+.epic-logo {
+  background-color: #353535;
+}
+.fb-logo {
+  background-color: #3261a3;
+}
+.google-logo {
+  background-color: white;
+}
+.xbox-logo {
+  background-color: #027d00;
+}
+.pln-logo {
+  background-color: #003791;
+}
+.nintendo-logo {
+  background-color: #e00000;
+}
+.steam-logo {
+  background-color: #145c8f;
+}
+.main-text {
+  display: flex;
+  justify-content: left; /* align horizontal */
+  align-items: center;
+  flex: 70%;
+  padding-left: 10px;
+  background-color: #2a2a2a;
+  line-height: 40px;
+  /* border: 1px solid lightblue; */
+}
+.text {
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: OpenSans, sans-serif, arial;
+  color: white;
+  text-decoration: none;
+}
+.footer {
+  font-size: 15px;
+  text-transform: capitalize;
+  color: #757575;
+  background-color: #202020;
+  font-family: OpenSans, sans-serif, arial;
+  line-height: 30px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+}
+.footer a {
+  font-weight: bold;
+  color: white;
+  text-transform: capitalize;
+}
+body {
+  background-color: black;
+}
