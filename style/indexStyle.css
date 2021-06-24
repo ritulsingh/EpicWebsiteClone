@@ -61,6 +61,17 @@
   font-weight: bold;
 }
 
+.searchCon{
+  display: flex;
+  justify-content:center;
+  margin-top: 50px;
+  font-family: OpenSans, sans-serif, arial;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: bold;
+  color: white;
+}
+
 body {
   background-color: rgb(19, 18, 18);
 }
