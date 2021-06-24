@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:-//Microsoft Corporation//Outlook 11.0 MIMEDIR//EN
+BEGIN:VEVENT
+UID:967460d21fd64174b
+DTSTAMP:20210622T173726Z
+DTSTART:20210706T110000Z
+DTEND:20210706T133000Z
+SUMMARY:Microsoft Azure Virtual Training Day: Fundamentals Part 2
+LOCATION:Digital Event
+DESCRIPTION:This training consists of two parts. This calendar invite is for Part 2. \n\nHow to join the virtual training: \nClick the link to join Part 2:  https://event.on24.com/wcc/r/3214972/CFD586B6016D9457371F874DD19BBCF8.  Please note\, this link is unique for each registrant and should not be forwarded.
+END:VEVENT
+END:VCALENDAR
